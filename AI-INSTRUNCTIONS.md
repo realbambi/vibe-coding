@@ -1,4 +1,4 @@
-# CLAUDE.md - Global Instructions
+# Global Instructions
 
 ## 👤 User Profile
 - **Target User:** 용님 (Back-End Engineer)
